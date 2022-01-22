@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Sou Ivan de Siqueira
 
-<!--
-**ivandesiqueira/ivandesiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/ivandesiqueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivandesiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandesiqueira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Ivan-Java" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Ivan-SB" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Ivan-PSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Ivan-ORACLE" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Ivan-TOMCAT" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
+    <img align="center" alt="Ivan-TOMCAT" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
